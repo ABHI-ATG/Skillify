@@ -1,5 +1,4 @@
 <?php include('header.php'); ?>
-<?php include('session.php'); ?>
     <body>
 		<?php include('navbar.php'); ?>
         <div class="container-fluid">
